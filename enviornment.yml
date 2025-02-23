@@ -1,0 +1,7 @@
+name: number_recognition
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pytorch
+  - pillow
